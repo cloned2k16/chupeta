@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "chupeta",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
